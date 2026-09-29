@@ -389,25 +389,6 @@ const PRODUCTS = [
   "video": false
  },
  {
-  "id": "DLQ9YPxTiTC",
-  "name": "この度S.a.Tにてsmall habitsのSpecialなネックレスを販売させて…",
-  "cat": "アクセサリー",
-  "img": "images/027_DLQ9YPxTiTC.jpg",
-  "desc": "この度S.a.Tにてsmall habitsのSpecialなネックレスを販売させて頂きます。\n\n詳細はDMにて\n\n【small habits “志” 18K WHITE DIAMOND NECKLACE】\n\n挑戦者の強い”志”と未来への”覚悟”\n\n“志”という漢字は、\n武士の「士」と「心」から成ることから、\n武士道で説かれています。\n\n武士道が説く“志”とは、ただの目標ではなく、\n自己を高め、他者に誠実であるための心の指針。\n\n常に自己を高める努力を続け、\n他者のために尽くす覚悟と結びついています。\n\n困難や挑戦に直面したとき、\nこのネックレスがあなたにとっての道標となり、\n進むべき道を示してくれるでしょう。\n\nこれただのネックレスではありません。\nあなたの内なる情熱と覚悟の証。\n\nそれは、挑戦者だけが持つ特別な輝きです。\n自分の道を切り拓き、\n未来を手にする準備はできていますか？\n\n“志”を身につけ、\nさらなる飛躍をしていきましょう。\n\nFor those who choose the path of courage and conviction.\n\nThe kanji character “志” (Kokorozashi) combines two elements:\n“士” (samurai) and “心” (heart).\n\nIn the spirit of Bushido—the way of the warrior—\n志 is not just a goal.\nIt’s a guiding principle of the heart:\nto better oneself and to serve others with sincerity.\n\nThis necklace is not just an accessory.\nIt’s a symbol of your inner fire, your unwavering determination,\nand your readiness to walk your own path—no matter the challenge.\n\nWhen the road is unclear,\nlet this piece remind you of your purpose.\n\nThis is for the challenger.\nThe dreamer.\nThe one who dares to rise.\n\nAre you ready to claim your future?\nWear your 志.\nAnd rise beyond.",
-  "tags": [
-   "kokorozashi",
-   "bushido",
-   "kanjijewelry",
-   "jewelrywithmeaning",
-   "spiritualjewelry",
-   "innerstrength",
-   "pathofpurpose",
-   "riseabove"
-  ],
-  "sold": true,
-  "video": false
- },
- {
   "id": "DJ4KeOQTvy0",
   "name": "Levi’sの名作「70505 BigE」、なかでも珍しい豪華なチェーンステッチ入り…",
   "cat": "デニム",
