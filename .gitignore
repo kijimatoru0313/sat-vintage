@@ -1,0 +1,6 @@
+# 公開しないもの（パソコンの中だけに置いておくファイル）
+.DS_Store
+images-original/
+sat_posts.json
+build_products.py
+商品の追加方法.md
